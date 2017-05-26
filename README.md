@@ -10,6 +10,9 @@ For more information please see [the website][1].
 //////////////////////////////
 //Sample Usage By  Hamed
 //////////////////////////////
+
+final RETROFIT_VERSION = '2.0.0-beta3'
+
 compile "com.squareup.retrofit2:retrofit:$RETROFIT_VERSION"
 
 compile "com.squareup.retrofit2:converter-gson:$RETROFIT_VERSION"
