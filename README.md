@@ -6,6 +6,17 @@ Type-safe HTTP client for Android and Java by Square, Inc.
 For more information please see [the website][1].
 
 
+
+//////////////////////////////
+//Sample Usage By  Hamed
+//////////////////////////////
+compile "com.squareup.retrofit2:retrofit:$RETROFIT_VERSION"
+compile "com.squareup.retrofit2:converter-gson:$RETROFIT_VERSION"
+compile "com.squareup.retrofit2:adapter-rxjava:$RETROFIT_VERSION"
+
+
+
+
 Download
 --------
 
